@@ -1,15 +1,15 @@
 ---
-hostname: arch
-ssh_comment: arch-workstation
-git_name: "MayNiklas"
-git_mail: "user@example.com"
+hostname: Lasse-Laptop
+ssh_comment: Lasse-Laptop
+git_name: "lgoette"
+git_mail: "git@lasse-goette.de"
 
 pacman_packages:
   - vlc
   - htop
-  - nvtop
-  - nvidia
-  - nvidia-settings
+#  - nvtop
+#  - nvidia
+#  - nvidia-settings
   - obs-studio
   - handbrake
   - youtube-dl
@@ -25,8 +25,8 @@ pacman_packages:
   - thunderbird-i18n-de
   - thunderbird-i18n-en-gb
   - thunderbird-i18n-en-us
-  - steam
+#  - steam
   - screenfetch
   - neofetch
   - jdk-openjdk
-  - gradle
+#  - gradle
